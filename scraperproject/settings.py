@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "127.0.0.1",
-    "https://abayscraper.herokuapp.com"
+    "https://abayscraper.herokuapp.com",
+    "abayscraper.herokuapp.com",
     ]
 
 
