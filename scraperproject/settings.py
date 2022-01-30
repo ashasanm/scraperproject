@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-&4k36j80et&v5^e2d-bk4r_&^(5$ow_pp%0o47cn=+%v&h537+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "127.0.0.1",
+    "https://abayscraper.herokuapp.com"
+    ]
 
 
 # Application definition
